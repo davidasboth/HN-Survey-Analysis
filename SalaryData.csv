@@ -1,0 +1,458 @@
+Role,Level,JobTitle,AnnualSalary,Currency,SalaryUSD,Country,Region,City
+Developer,Lead,java architect,18000,ARS,2103,Argentina,,
+Developer,Mid,Developer,98400,ars,11501,Argentina,na,na
+Developer,Senior,Web and Mobile programmer,26400,USD,26400,Argentina,,
+Developer,Mid,Infrastructure Developer,57000,AUD,46170,Australia,NSW,Sydney
+Developer,Lead,Lead Developer,65000,AUD,52650,Australia,,
+Developer,Mid,Software Engineer,70000,AUD,56700,Australia,Victoria,Melbourne
+Developer,Mid,Design Engineer,86500,AUD,70065,Australia,,
+Developer,Lead,Team Lead,128440,AUD,104036,Australia,Victoria,Melbourne
+Developer,Junior,Web Developer,24000,EUR,28800,Austria,Vienna,Vienna
+Developer,Senior,Software Developer,37800,EUR,45360,Austria,Vienna,Vienna
+Designer + Developer,Senior,Digital Product Designer,35000,USD,35000,Belgium,,Ghent
+Developer,Junior,c programmer,62400,brl,23088,Brazil,,
+Manager/Director/Head,,IT Manager,72000,BRL,26640,Brazil,Santa Catarina,
+Designer + Developer,Senior,Development Engineer,144000,BRL,53280,Brazil,SC,Florianópolis
+Developer,Mid,Software Developer,20000,BGN,12275,Bulgaria,Sofia,Sofia
+Developer,Senior,Web Technology Lead,100000,CAD,85000,Canada,,
+Designer + Developer,Junior,"E-Commerce, Web Development",32000,CAD,27200,Canada,Prince Edward Island,Charlottetown
+Developer,Mid,Software Developer,35000,CAD,29750,Canada,MB,Winnipeg
+Developer,,Open Source Software Developer,35400,CAD,30090,Canada,British Columbia,Vancouver
+Developer,Junior,Junior Developer,39000,CAD,33150,Canada,Yukon,Whitehorse
+Developer,Junior,Programmer,40000,CAD,34000,Canada,,
+Developer,Junior,UI Developer,45000,CAD,38250,Canada,Ontario,Toronto
+Developer,Junior,Programmer analyst,47500,CAD,40375,Canada,Quebec,Montreal
+Developer,Junior,Software Engineer,48000,CAD,40800,Canada,British Columbia,Vancouver
+Developer,Senior,programmer,50000,CAD,42500,Canada,quebec,
+Designer,Mid,UX/UI designer,52000,CAD,44200,Canada,quebec,montreal
+Designer + Developer,Mid,Developer,60000,CAD,51000,Canada,ON,Toronto
+Developer,Mid,Software Developer,65000,CAD,55250,Canada,Ontario,Toronto
+Developer,Mid,Software developer,67000,CAD,56950,Canada,ON,Toronto
+Owner/Founder,,ceo,75000,CAD,63750,Canada,ontario,toronto
+Support,,Customer Support,75000,CAD,63750,Canada,BC,
+Designer + Developer,Lead,Senior Architect,80000,CAD,68000,Canada,BC,
+Designer + Developer,Mid,Web Engineer,80000,CAD,68000,Canada,NL,St. John's
+Manager/Director/Head,,"Director, Digital * Mobile",80000,CAD,68000,Canada,Ontario,Vaughan
+Developer,Senior,Software Developer,85000,CAD,72250,Canada,Ontario,Toronto
+Developer,Senior,Senior developer,90000,CAD,76500,Canada,,
+Developer,Senior,Web Developer,92000,CAD,78200,Canada,Ontario,Toronto
+Developer,Mid,Senior Technical Writer,95000,CAD,80750,Canada,Ontario,Toronto
+Developer,Lead,Architect,100000,CAD,85000,Canada,Ontario,Ottawa
+Developer,Lead,Software lead,105000,CAD,89250,Canada,Ontario,
+Developer,Lead,Director of Development,120000,CAD,102000,Canada,,
+Developer,Mid,Data Science,125000,CAD,106250,Canada,Ontario,
+Developer,Senior,software engineer 3,130000,CAD,110500,Canada,bc,vancouver
+Developer,Lead,Consultant,250000,CAD,212500,Canada,Ontario,Toronto
+Developer,Senior,Senior Consultant,100000,USD,100000,Canada,,
+Developer,Mid,Software Engineer,110000,USD,110000,Canada,Ontario,Toronto
+Developer,Lead,Senior Architect,128000,USD,128000,Canada,Ontario,Toronto
+Developer,Lead,Software Consultant,200000,USD,200000,Canada,MB,Winnipeg
+Owner/Founder,,CEO,50000,EUR,60000,Catalonia,Barcelona,Terrassa
+Developer,Lead,lead software engineer,240000,cny,38672,China,Shanghai,shanghai
+Designer + Developer,Junior,Front-End Developer,25000,Dominican Peso,564,Dominican Republic,,
+Designer + Developer,Mid,Freelance Designer/Developer,26000,GBP,39780,England,North Yorkshire,Whitby
+Developer,Senior,Interface Developer,35000,GBP,53550,England,London,London
+Manager/Director/Head,,Head of UX,40000,GBP,61200,England,,
+Developer,Junior,Software Engineer,40355,GBP,61743,England,,London
+Developer,Senior,Senior Web Developer,42000,GBP,64260,England,,London
+Designer + Developer,Lead,Technical Director,55000,GBP,84150,England,,Leeds
+Developer,Lead,Head of Infrastructure,80000,GBP,122400,England,London,London
+Developer,Senior,Senior Software Development Engineer,100000,GBP,153000,England,,London
+Developer,Mid,Developper WordPress,30000,EUR,36000,France,,
+Developer,Junior,Software developer,30000,EUR,36000,France,,NANTES
+Developer,Senior,Frontend Developer,36000,EUR,43200,France,,Metz
+Designer,Senior,Product designer,42000,EUR,50400,France,,Paris
+Developer,Senior,Senior Developer,53000,EUR,63600,France,,Paris
+Developer,Senior,Software Engineer,56000,EUR,67200,France,,Paris
+Developer,Mid,Consultant & Developer,20000,EUR,24000,Germany,,
+Developer,Mid,CTO,24000,EUR,28800,Germany,Berlin,Berlin
+Developer,Senior,Software Engineer,48000,EUR,57600,Germany,Baden-Württemberg,Freiburg
+consultant,,senior consultant,53400,EUR,64080,Germany,Berlin,Berlin
+Developer,Lead,Front-End Architect,60000,EUR,72000,Germany,Bavaria,Munich
+Developer,Mid,Software Engineer,60000,EUR,72000,Germany,Baden-Württemberg,
+Developer,Lead,CTO,66000,EUR,79200,Germany,,
+Designer + Developer,Junior,Web- Developer/Designer,90000,EUR,108000,Germany,Berlin,Berlin
+Developer,Mid,Senior Software Engineer,87000,USD,87000,Germany,,
+Developer,Lead,Lead Software Engineer,45000,USD,45000,Ghana,,Accra
+Designer + Developer,Junior,Frontend developer,3000000,HUF,11328,Hungary,Pest,Budapest
+Designer + Developer,Lead,Product Designer,45000,GBP,68850,India,Karnataka,Bangalore
+Developer,Senior,Product Engineer,360000,INR,5760,India,Telanagana,Hyderabad
+Developer,Senior,senior software engineer,730000,INR,11680,India,karnataka,bangalore
+Developer,Senior,Senior Software Engineer,2400000,INR,38400,India,,
+Developer,Junior,Intern,3000,USD,3000,India,,Hyderabad
+Developer,Junior,developer,7000,USD,7000,India,,
+Developer,Mid,Senior Software Developer,20000,USD,20000,India,Maharashtra,Pune
+Developer,Junior,Developer,25000,USD,25000,India,Maharashtra,Mumbai
+Designer + Developer,Mid,Website Developer and Designer,30000,EUR,36000,Ireland,Dublin,Dublin
+Designer + Developer,Senior,Director,52000,EUR,62400,Ireland,,
+Developer,Senior,Senior Software Engineer,69000,EUR,82800,Ireland,Dublin,Dublin
+Developer,Senior,Engineer,75000,EUR,90000,Ireland,,Dublin
+Developer,Junior,Research Intern,150000,NIS,38133,Israel,,Tel Aviv
+Developer,Senior,Software developer,33000,EUR,39600,Italy,Milan,Milan
+Developer,Mid,Software Engineer,43000,EUR,51600,Italy,,
+Developer,Senior,Senior developer,65000,USD,65000,Latvia,,
+Designer + Developer,,Designer,125000,USD,125000,USA,IL,Chicago
+Developer,Senior,Android Developer,600000,NPR,5924,Nepal,Kathmandu,Kathmandu
+Developer,Senior,developer,65000,EUR,78000,Netherlands,,
+Developer,Lead,Consultant,130000,NZD,100077,New Zealand,Auckland,Auckland
+Developer,Mid,Analyst Programmer,360000,NIO,13532,Nicaragua,Managua,Managua
+Developer,Mid,Systems and Delivery Manager,450000,NOK,58500,Norway,,
+Developer,Senior,Senior Software Developer,680000,NOK,88400,Norway,,Stavanger
+Developer,Senior,Developer,1200000,NOK,156000,Norway,,
+Developer,Mid,Java Web Developer,100000,PLN,27888,Poland,Malopolskie,Krakow
+Developer,Mid,Software Developer,14000,EUR,16800,Portugal,Lisbon,Lisbon
+Developer,Senior,Software Developer,19600,EUR,23520,Portugal,Porto,Porto
+Developer,Senior,Senior SharePoint Consultant,23000,EUR,27600,Portugal,Lisbon,Lisbon
+Developer,Mid,Java Developer,25000,USD,25000,Russian Federation,Voronezh,Voronezh
+Applications Engineer,,Applications Engineer,22000,GBP,33660,Scotland,,
+Developer,Senior,Director of Engineering,144000,SGD,115172,Singapore,,
+Developer,Senior,Junior Technical Lead,414000,ZAR,35330,South Africa,Gauteng,Johannesburg
+Developer,Lead,Technical Director,1700000,Zar,145078,South Africa,,
+Developer,Senior,software engineer,36000,EUR,43200,Spain,catalunya,Barcelona
+Developer,Mid,Front-end developer,384000,SEK,49920,Sweden,,Stockholm
+Developer,Mid,Software Developer,396000,SEK,51480,Sweden,,
+Developer,Mid,Mobile Game Developer,480000,SEK,62400,Sweden,,Stockholm
+Developer,Mid,Developer,23000,swe,15005,Sweden,Skåne,Malmö
+Developer,Junior,Mobile Developer,6500,CHF,6500,Switzerland,Vaud,Geneva
+Developer,Mid,Django Developer,101000,CHF,101000,Switzerland,,
+Developer,Lead,Lead Developer,120000,CHF,120000,Switzerland,Bern,Bern
+Developer,Mid,swe,220000,chf,220000,Switzerland,,
+Developer,Mid,Front end developer,30000,EUR,36000,Netherlands,,
+Developer,Mid,Student,18000,TL,7676,Turkey,,
+Developer,Senior,Senior Software Developer,65000,TL,27721,Turkey,?stanbul,?stanbul
+Developer,Senior,senior software engineer,130000,USD,130000,USA,ny,ny
+Developer,Mid,Software Engineer,68000,USD,68000,USA,MN,Minneapolis
+Developer,Senior,PHP Programmer,24800,GBP,37944,UK,,
+Developer,Junior,Developer,26000,GBP,39780,UK,London,London
+Developer,Junior,lead developer,28000,GBP,42840,UK,,
+Developer,Junior,Graduate,30000,GBP,45900,UK,,
+Manager/Director/Head,,IT Manager,36000,GBP,55080,UK,,
+Developer,Senior,Technology specialist,38000,GBP,58140,UK,,reading
+Developer,Mid,Developer,40000,GBP,61200,UK,,London
+Developer,Mid,Systems Admin,40000,GBP,61200,UK,,
+Designer,Senior,Senior User Experience Architect,55000,GBP,84150,UK,,London
+Designer + Developer,Lead,Founder,70000,GBP,107100,UK,,
+Manager/Director/Head,,Technical Director,88000,GBP,134640,UK,,
+Developer,Lead,Senior Software Developer/Technical Lead,120000,GBP,183600,UK,,London
+Designer + Developer,Senior,CEO,160000,GBP,244800,UK,,
+Developer,Mid,Software Engineer (Front-end),204000,AED,55538,United Arab Emirates,,Dubai
+Developer,Junior,Web Developer,23000,GBP,35190,UK,Bristol,Bristol
+Developer,Lead,Web Developer,26000,GBP,39780,UK,,
+Developer,Junior,Junior Ruby Developer,30000,GBP,45900,UK,,London
+Developer,Mid,Web developer,33200,GBP,50796,UK,,London
+Designer + Developer,Lead,Developer,35000,GBP,53550,UK,,
+Developer,Junior,Graduate Develo,35000,GBP,53550,UK,England,London
+Developer,Senior,Senior Engineer,39000,GBP,59670,UK,,
+Developer,Mid,Software Engineer,40000,GBP,61200,UK,Berkshire,Reading
+Developer,Senior,Senior Front-end Developer,60000,GBP,91800,UK,,London
+Developer,Lead,Technical Architect,80000,GBP,122400,UK,London,London
+Developer,Junior,Software Engineer,78600,USD,78600,USA,Texas,
+Developer,Junior,Web Developer,10000,USD,10000,USA,Michigan,Mount Pleasant
+Developer,Junior,Web Developer,27000,USD,27000,USA,NC,Wilmington
+Developer,Mid,Software Engineer,46000,USD,46000,USA,LA,Baton Rouge
+Developer,Mid,Front-End Developer,50000,USD,50000,USA,,
+Developer,Junior,Java Developer,52000,USD,52000,USA,Virginia,Blacksburg
+Developer,Mid,Web Applications Developer,55000,USD,55000,USA,Ohio,Solon
+Developer,Mid,Front-End Developer,55000,USD,55000,USA,California,Santa Cruz
+Developer,Junior,Reporting Developer,56000,USD,56000,USA,Wisconsin,Madison
+Support Engineer,,Support Engineer,57500,USD,57500,USA,Massachusetts,Boston
+Designer + Developer,Mid,Front-End Developer,60000,USD,60000,USA,Virginia,Fairfax
+Designer + Developer,Mid,Product Designer,60000,USD,60000,USA,Ohio,Cincinnati
+Developer,Mid,Web Developer,60000,USD,60000,USA,New York,New York
+Developer,Senior,Developer,60000,USD,60000,USA,MI,
+Developer,Mid,Web Developer,61000,USD,61000,USA,CA,San Diego
+Developer,Junior,Associate Software Developer,62000,USD,62000,USA,Minnesota,Minneapolis
+Developer,Mid,System Engineer,62000,USD,62000,USA,michigan,detroit
+Designer + Developer,Senior,Senior Designer,65000,USD,65000,USA,Texas,Houston
+Designer + Developer,Senior,Web Developer,65000,USD,65000,USA,Florida,Orlando
+Developer,Senior,Full-stack developer,65000,USD,65000,USA,IL,
+Developer,Mid,Software Engineer,65000,USD,65000,USA,North Carolina,Charlotte
+Developer,Junior,Software engineer,67000,USD,67000,USA,Kansas,Overland Park
+Developer,Junior,Associate Software Engineer,68000,USD,68000,USA,Wisconsin,Milwaukee
+Developer,Mid,UI/UX Developer,69500,USD,69500,USA,Arkansas,Conway
+Developer,Mid,software developer,70000,USD,70000,USA,Arizona,Phoenix
+Chief Officer,,CEO,72000,USD,72000,USA,Alabama,
+Developer,Mid,Web Developer,72000,USD,72000,USA,Colorado,Longmont
+Designer + Developer,Senior,Senior Front End Engineer,73000,USD,73000,USA,South Carolina,Charleston
+Developer,Senior,Software Developer,75000,USD,75000,USA,Texas,Lubbock
+Developer,Mid,Ruby Developer,75000,USD,75000,USA,PA,Philadelphia
+Developer,Mid,Developer II,76000,USD,76000,USA,New York,Buffalo
+Developer,Senior,Developer,80000,USD,80000,USA,Idaho,Sun Valley
+Developer,Senior,Senior Software Engineer,80000,USD,80000,USA,,
+Developer,Lead,Lead Front-End Developer,80000,USD,80000,USA,Washington,
+Developer,Mid,Developer II,80000,USD,80000,USA,WA,Seattle
+Developer,Senior,Senior Software Engineer,84000,USD,84000,USA,Arizona,Scottsdale
+Manager/Director/Head,,Engineering Manager,84000,USD,84000,USA,Texas,Austin
+Developer,Mid,Rails Developer,85000,USD,85000,USA,Florida,
+Developer,Junior,Software Development Engineer,92000,USD,92000,USA,Massachusetts,Boston
+Developer,Lead,Lead software developer,95000,USD,95000,USA,Michigan,Ann Arbor
+Developer,Lead,Lead Systems Developer,95000,USD,95000,USA,,New York City
+Designer + Developer,Senior,UI UX Front end Developer,96000,USD,96000,USA,SC,Charleston
+Developer,Lead,Senior Software Engineer,97000,USD,97000,USA,UT,Salt Lake City
+Developer,Senior,Software developer,100000,USD,100000,USA,,
+Developer,Senior,Software Architecture Consultant,100000,USD,100000,USA,Oregon,Portland
+Developer,Lead,Platform Engineer,100000,USD,100000,USA,IN,
+Designer + Developer,Senior,Senior Designer,105000,USD,105000,USA,,
+Developer,Lead,Software engineer,110000,USD,110000,USA,,San Francisco
+Developer,Junior,Software Engineer,110000,USD,110000,USA,California,Mountain View
+Developer,Mid,Software Developer,115000,USD,115000,USA,,
+Designer + Developer,Senior,Software Engineer,120000,USD,120000,USA,Texas,Houston
+Developer,Senior,Front-End Developer,120000,USD,120000,USA,CO,Longmont
+Developer,Lead,Software Engineer,120000,USD,120000,USA,,
+Manager/Director/Head,,"Director,engineering",120000,USD,120000,USA,Ca,Sf
+Developer,Mid,Software Developer,125000,USD,125000,USA,California,San Francisco
+Developer,Lead,Lead Software Developer,125000,USD,125000,USA,GA,Atlanta
+Designer,Senior,Visual UX Designer,129000,USD,129000,USA,,
+Developer,Senior,Lead Ruby Developer,130000,USD,130000,USA,Florida,Tampa
+Manager/Director/Head,,Senior Director Products,130000,USD,130000,USA,CA,Palo Alto
+Developer,Lead,Team lead,140000,USD,140000,USA,New York,New York
+Developer,Senior,Senior Frontend Engineer,150000,USD,150000,USA,California,San Mateo
+Developer,Senior,Senior iOS Engineer,165000,USD,165000,USA,NY,New York
+Developer,Lead,Director of Technology,167000,USD,167000,USA,Georgia,Atlanta
+Developer,Senior,Senior Software Engineer,215000,USD,215000,USA,MD,Annapolis Junction
+Developer,Lead,Contract developer,220000,USD,220000,USA,Massachusetts,
+Developer,Lead,Lead Front-end Engineer,60000,USD,60000,USA,AZ,Phoenix
+Developer,Mid,Web Developer,66000,USD,66000,USA,Texas,Austin
+Developer,Mid,iOS Engineer,130000,USD,130000,USA,California,San Francisco
+Designer + Developer,Mid,.,40000,USD,40000,USA,,
+Developer,Junior,Application Development Intern,43000,USD,43000,USA,CA,
+Developer,Lead,Founder,45000,USD,45000,USA,MA,
+Developer,Senior,Senior Developer,72000,USD,72000,USA,Texas,
+Developer,Mid,Software Engineer,72000,USD,72000,USA,MO,Kansas City
+data analyst,,research staff,75000,USD,75000,USA,,
+Chief Officer,,President,76000,USD,76000,USA,Tx,Fort Worth
+Developer,Junior,engineer,80000,USD,80000,USA,CA,
+Developer,Mid,derpina,80000,USD,80000,USA,,
+Designer + Developer,Mid,Software Engineer,85000,USD,85000,USA,California,Menlo Park
+Developer,Mid,Programmer/Analyst,85000,USD,85000,USA,NY,
+Designer + Developer,Senior,Product Designer,90000,USD,90000,USA,NY,New York
+Manager/Director/Head,,Project Planner,95560,USD,95560,USA,NY,New York
+Developer,Senior,Lead Developer,100000,USD,100000,USA,NY,New York
+Developer,Lead,Front End Developer,100000,USD,100000,USA,NY,Brooklyn
+Developer,Mid,Contractor,100000,USD,100000,USA,WA,Seattle
+Developer,Mid,Software Developer,100000,USD,100000,USA,NY,New York
+Owner/Founder,,cto,100000,USD,100000,USA,,
+Developer,Lead,software developer,105000,USD,105000,USA,CO,
+Developer,Senior,Senior IT Analyst,110000,USD,110000,USA,WI,Madison
+Developer,Senior,Director of Internet Development,110000,USD,110000,USA,Florida,Orlando
+Developer,Senior,Senior Software Engineer,115000,USD,115000,USA,CA,San Francisco
+Developer,Senior,Senior Java Developer,115000,USD,115000,USA,massachusetts,Boston
+Developer,Mid,web developer,116000,USD,116000,USA,,
+Developer,Senior,Senior Software Engineer,120000,USD,120000,USA,WA,Seattle
+Developer,Mid,engineer,120000,USD,120000,USA,ca,sf
+Developer,Lead,Principal Software Engineer,120000,USD,120000,USA,ma,boston
+Developer,Senior,Senior Developer,122000,USD,122000,USA,GA,
+Developer,Senior,Senior Software Engineer/CTO,127000,USD,127000,USA,CA,San Francisco
+Developer,Lead,Engineer,130000,USD,130000,USA,PA,
+Developer,Senior,Senior Ruby Engineer,135000,USD,135000,USA,TX,Austin
+Designer + Developer,Lead,Lead Product Designer,140000,USD,140000,USA,MN,Minneapolis
+Developer,Senior,Senior Applications and Integration Engineer,140000,USD,140000,USA,CA,San Jose
+Developer,Senior,Software Engineer,145000,USD,145000,USA,Pa,
+Co-Founder,,cofounder,150000,USD,150000,USA,ca,
+Developer,Senior,iOS developer,160000,USD,160000,USA,Ca,
+Developer,Lead,staff software engineer,170000,USD,170000,USA,ca,
+Developer,Lead,Principal Engineer,195000,USD,195000,USA,,
+Developer,Lead,Data Warehouse Architect,360000,USD,360000,USA,,
+Developer,Junior,programmer,20500,USD,20500,USA,WA,
+Designer + Developer,Mid,Web and statements developer,40000,USD,40000,USA,North Carolina,Morrisville
+Developer,Junior,Web Developer,42000,USD,42000,USA,DC,
+Developer,Junior,dev,44000,USD,44000,USA,,
+Developer,Junior,Systems Engineer,45000,USD,45000,USA,,
+Developer,Mid,Developer,45000,USD,45000,USA,MI,
+Co-Founder,,Cofoudner,50000,USD,50000,USA,,
+Developer,Junior,junior ruby on rails developer,50000,USD,50000,USA,CA,huntington beach
+Developer,Junior,Software Developer,52500,USD,52500,USA,,
+Developer,Junior,Software Developer,53000,USD,53000,USA,,
+Developer,Lead,Art Director/Lead Web Developer,53000,USD,53000,USA,Mississippi,
+Designer + Developer,Senior,Senior e-Communications Manager,54000,USD,54000,USA,New York,New York
+Designer,Junior,Director of Operations,55000,USD,55000,USA,MA,Worcester
+Designer + Developer,Mid,Freelance Designer/Front-end Developer,55000,USD,55000,USA,GA,Atlanta
+Developer,Junior,Software Developer,55000,USD,55000,USA,wi,
+Developer,Junior,Associate Java Developer,55000,USD,55000,USA,MN,Minneapolis
+Developer,Junior,Programmer I,55000,USD,55000,USA,Illinois,
+Designer,Mid,Designer,56000,USD,56000,USA,Colorado,
+Developer,Junior,Associate Software Engineer,57500,USD,57500,USA,,
+Designer,Senior,Senior Web Designer,58000,USD,58000,USA,Florida,Orlando
+Developer,Junior,freelancer,60000,USD,60000,USA,ny,nyc
+Developer,Senior,Python Dev,60000,USD,60000,USA,FL,Tampa
+Manager/Director/Head,,Growth Hacker,60000,USD,60000,USA,co,denver
+marketing,,Growth Hacker,60000,USD,60000,USA,CA,San Francisco
+Developer,Junior,Software Engineer,61800,USD,61800,USA,CT,
+Developer,Senior,Developer,62000,USD,62000,USA,TN,
+Developer,Mid,web development,62000,USD,62000,USA,il,chicago
+Developer,Mid,Application Developer,63000,USD,63000,USA,Connecticut,Wallingford
+Designer + Developer,Mid,Web developer and data coordinator,65000,USD,65000,USA,Colorado,Denver
+Designer + Developer,Senior,Designer / Developer,65000,USD,65000,USA,MN,Minneapolis
+Developer,Junior,software engineer,65000,USD,65000,USA,nc,charlotte
+Manager/Director/Head,,Development Director,65000,USD,65000,USA,Michigan,Grand Rapids
+Developer,Mid,web developer,66000,USD,66000,USA,,
+Developer,Junior,Front End Developer,67500,USD,67500,USA,VA,
+Developer,Mid,Programmer Analyst II,68000,USD,68000,USA,CA,
+Developer,Junior,Front End Web Developer,69000,USD,69000,USA,,
+Developer,Mid,Software Engineer,69500,USD,69500,USA,Pennsylvania,Philadelphia
+Designer,Senior,senior designer,70000,USD,70000,USA,tx,
+Developer,Junior,Software Engineer,70000,USD,70000,USA,MD,Columbia
+Developer,Junior,Software Engineer,70000,USD,70000,USA,New York,New York
+Developer,Senior,Sr. Software Developer,70000,USD,70000,USA,FL,Orlando
+Developer,Mid,Software Engineer,70000,USD,70000,USA,Illinois,Chicago
+Developer,Lead,Designer,70000,USD,70000,USA,,
+Developer,Mid,Web Developer,71225,USD,71225,USA,Minnesota,Saint Paul
+Developer,Junior,Scientist,72000,USD,72000,USA,,
+Developer,Mid,Web Application Developer,74977,USD,74977,USA,CA,Folsom
+Developer,Junior,Software Developer,75000,USD,75000,USA,,
+Developer,Mid,Web Developer,75000,USD,75000,USA,,
+Developer,Senior,Senior Software Engineer,75000,USD,75000,USA,,
+Developer,Senior,Blah,75000,USD,75000,USA,,
+Developer,Senior,Senior Software Engineer,75000,USD,75000,USA,OH,Dublin
+Developer,Junior,Software Engineer,75000,USD,75000,USA,California,Los Angeles
+Developer,Junior,Software Engineer,76000,USD,76000,USA,VA,McLean
+Developer,Mid,software development engineer,76500,USD,76500,USA,PA,
+Developer,Senior,Infrastructure Automation Engineer,78000,USD,78000,USA,KS,Manhattan
+Designer,Mid,Design Engineer,79000,USD,79000,USA,MA,Boston
+Developer,Mid,Developer II,79000,USD,79000,USA,OR,Portland
+Developer,Senior,Senior Web Developer,79820,USD,79820,USA,Colorado,
+Designer + Developer,Senior,Partner,80000,USD,80000,USA,NY,Saratoga Springs
+Designer + Developer,Senior,Web Designer Developer,80000,USD,80000,USA,MA,Boston
+Designer + Developer,Senior,senior web developer,80000,USD,80000,USA,oh,Columbus
+Developer,Lead,Research and Development Manager,80000,USD,80000,USA,GA,Atlanta
+Developer,Senior,Senior Software Engineer,80000,USD,80000,USA,OH,Cincinnati
+Developer,Senior,dev,80000,USD,80000,USA,,minneapolis
+Developer,Lead,developer,80000,USD,80000,USA,or,Portland
+Developer,Mid,Software Engineer II,80000,USD,80000,USA,Minnesota,Minneapolis
+Developer,Senior,Web Developer,80000,USD,80000,USA,NC,Greensboro
+Developer,Mid,R&D Engineer,80000,USD,80000,USA,va,reston
+Developer,Mid,Software Engineering,80000,USD,80000,USA,NJ,
+Developer,Lead,Lead Web Developer,80000,USD,80000,USA,DC,"Washington, DC"
+Developer,Senior,Software Engineer,82500,USD,82500,USA,NY,
+Designer,Mid,Lead Product Designer,85000,USD,85000,USA,Remote,
+Designer + Developer,Lead,UX Lead,85000,USD,85000,USA,PA,Philadelphia
+Developer,Mid,Interactive Developer,85000,USD,85000,USA,NC,Raleigh
+Developer,Mid,Core Application Developer,85000,USD,85000,USA,TX,
+Developer,Lead,Lead Computer Engineer,85000,USD,85000,USA,NY,Rochester
+Developer,Senior,Senior Developer,85000,USD,85000,USA,CA,
+Developer,Senior,Senior Engineer,85000,USD,85000,USA,CA,San Francisco
+Developer,Mid,DevOps Engineer,85000,USD,85000,USA,,
+Owner/Founder,,Partner,85000,USD,85000,USA,CA,Los Angeles
+Developer,Senior,Software Engineer,87000,USD,87000,USA,IL,Chicago
+Developer,Mid,Software Engineer,87000,USD,87000,USA,,
+Designer + Developer,Mid,Data Analyst,87500,USD,87500,USA,MD,Baltimore
+Developer,Lead,CTO,88000,USD,88000,USA,CA,SF
+Manager/Director/Head,,Product Manager,88000,USD,88000,USA,NC,Raleigh
+Designer + Developer,Senior,PHP Developer,88400,USD,88400,USA,PA,Aston
+Designer + Developer,Lead,Creative Director,90000,USD,90000,USA,Va,Alexandria
+Designer + Developer,Senior,Designer,90000,USD,90000,USA,NY,New York
+Developer,Mid,Software Engineer,90000,USD,90000,USA,MA,Boston
+Developer,Mid,Assistant Vice President,90000,USD,90000,USA,,
+Developer,Senior,Engineer,90000,USD,90000,USA,CA,San Diego
+Developer,Senior,Software Developer,90000,USD,90000,USA,WA,Seattle
+Developer,Junior,Software Development Engineer,90000,USD,90000,USA,WA,Seattle
+Developer,Senior,Senior Software Developer,92000,USD,92000,USA,NY,Albany
+Developer,Mid,Software Developer,92768,USD,92768,USA,CA,San Diego
+Developer,Junior,UI Engineer,95000,USD,95000,USA,,
+Developer,Senior,Developer,95000,USD,95000,USA,MA,
+Manager/Director/Head,,Director IMA Lab,95000,USD,95000,USA,IN,Indianapolis
+Developer,Senior,Web Application Developer,95388,USD,95388,USA,OR,Portland
+Developer,Lead,Solution Architect,96000,USD,96000,USA,Iowa,West Des Moines
+Designer + Developer,Senior,Design Director,97000,USD,97000,USA,,
+Developer,Lead,Senior Software Engineer,98000,USD,98000,USA,IN,Fort Wayne
+Developer,Senior,Senior Software Engineer,98789,USD,98789,USA,MD,Baltimore
+Manager/Director/Head,,r&d manager,99000,USD,99000,USA,md,
+Developer,Senior,None,99300,USD,99300,USA,TX,Fort Worth
+Designer,Mid,Designer,100000,USD,100000,USA,OR,Ashland
+Designer + Developer,Lead,UX Lead,100000,USD,100000,USA,Va,
+Developer,Mid,Developer,100000,USD,100000,USA,pa,philadelphia
+Developer,Mid,Software Engineer,100000,USD,100000,USA,NY,New York
+Developer,Senior,Software Engineer,100000,USD,100000,USA,Minnesota,
+Developer,Junior,Engineer,100000,USD,100000,USA,New York,
+Developer,Junior,Software Engineer II,100000,USD,100000,USA,CA,
+Developer,Junior,SDE,100000,USD,100000,USA,CA,Mountain View
+Developer,Senior,Software Developer,100000,USD,100000,USA,Oregon,Portland
+Developer,Senior,Programmer,100000,USD,100000,USA,,Washington DC Metro area (DC/MD/VA)
+Developer,Mid,Software Engineer,104000,USD,104000,USA,California,San Francisco
+Developer,Senior,Web Developer,105000,USD,105000,USA,TX,Austin
+Developer,Junior,Software Developer,105000,USD,105000,USA,VA,
+Developer,Mid,Support Engineer,105000,USD,105000,USA,CA,San Francisco
+Developer,Mid,software engineer,105000,USD,105000,USA,MA,Cambridge
+Manager/Director/Head,,Technical Director,105000,USD,105000,USA,NY,NYC
+Manager/Director/Head,,"VP, R&D",105000,USD,105000,USA,GA,Atlanta
+Developer,Senior,Web Application Developer,106000,USD,106000,USA,PA,
+Developer,Junior,Software Engineer 2,107250,USD,107250,USA,CA,SAN JOSE
+Developer,Mid,Software Engineer,110000,USD,110000,USA,Washington,Seattle
+Developer,Senior,Software Engineer,110000,USD,110000,USA,WA,Seattle
+Developer,Senior,Senior Developer,110000,USD,110000,USA,,
+Developer,Senior,Senior Front End Engineer,110000,USD,110000,USA,mass,Cambridge
+Developer,Senior,Engineer,110000,USD,110000,USA,CA,Los Angeles
+Developer,Senior,Senior Software Engineer,110000,USD,110000,USA,UT,
+Manager/Director/Head,,Product Manager,110000,USD,110000,USA,AL,
+Developer,Lead,developer,115000,USD,115000,USA,minnesota,
+Developer,Senior,software engineer,115000,USD,115000,USA,tx,
+Developer,Junior,Software Engineer,115000,USD,115000,USA,NY,New York City
+Developer,Junior,iOS Software Engineer,115000,USD,115000,USA,CA,SF
+Developer,Senior,Senior Engineer,115000,USD,115000,USA,California,
+Developer,Mid,Specialist,118000,USD,118000,USA,Texas,
+Manager/Director/Head,,Director of Software Engineering,118000,USD,118000,USA,CA,Palo Alto
+Developer,Senior,Sr. Consultant,120000,USD,120000,USA,NY,NYC
+Developer,Senior,Senior Software Engineer,120000,USD,120000,USA,OR,Portland
+Developer,Mid,iOS engineer,120000,USD,120000,USA,Ut,
+Developer,Senior,Software Engineer 3,120000,USD,120000,USA,CO,
+Developer,Senior,Senior Python Developer,120000,USD,120000,USA,CA,Los Angeles
+Developer,Mid,Software Engineer,120000,USD,120000,USA,MO,St Louis
+Owner/Founder,,Owner,120000,USD,120000,USA,Texas,Austin
+Developer,Mid,Software Engineer,122000,USD,122000,USA,CA,Los Angeles
+Developer,Senior,Senior Developer,124000,USD,124000,USA,TX,Austin
+Developer,Senior,Senior developer,124000,USD,124000,USA,Or,
+Developer,Lead,Principal Software Engineer,125000,USD,125000,USA,MA,
+Developer,Senior,Lead Developer,125000,USD,125000,USA,New York,New York
+Developer,Senior,Software Engineer,125000,USD,125000,USA,WA,Seattle
+Developer,Mid,Software Engineer,130000,USD,130000,USA,CA,San Francisco
+Developer,Senior,Engineer,130000,USD,130000,USA,CA,San Francisco
+Developer,Lead,Lead backend engineer,130000,USD,130000,USA,CA,San Fracisco
+Developer,Junior,Sdet,130000,USD,130000,USA,Washington,Seattle
+Developer,Senior,sr dev,130000,USD,130000,USA,,
+Developer,Senior,Software Developer,130000,USD,130000,USA,WI,Milwaukee
+Developer,Lead,Senior Software Engineer,130000,USD,130000,USA,UT,
+Manager/Director/Head,,Director of Software,130000,USD,130000,USA,California,San Francisco
+Manager/Director/Head,,Director of IT,130000,USD,130000,USA,MO,St. Louis
+Designer + Developer,Lead,Data Architect,134000,USD,134000,USA,VA,Herndon
+Developer,Lead,UI Architect,135000,USD,135000,USA,CA,Sunnyvale
+Developer,Senior,Senior Software Engineer,137000,USD,137000,USA,MA,Lexington
+Developer,Mid,software engineer,140000,USD,140000,USA,ca,sf
+Developer,Senior,Consultant,144000,USD,144000,USA,IL,Chicago
+Developer,Lead,Vice President of engineering,145000,USD,145000,USA,New York,New york
+Developer,Lead,Director,145000,USD,145000,USA,CA,Santa Monica
+Manager/Director/Head,,engineering manager,145000,USD,145000,USA,NV,Las Vegas
+Manager/Director/Head,,Director of Engineering,145000,USD,145000,USA,ca,san francisco
+Developer,Lead,mts,149000,USD,149000,USA,nj,
+Designer + Developer,Senior,Principal,150000,USD,150000,USA,PA,
+Developer,Senior,Field Engineer,150000,USD,150000,USA,IL,Chicago
+Developer,Junior,Developer,150000,USD,150000,USA,pa,philadelphia
+Developer,Lead,Contractor lead developer,150000,USD,150000,USA,Az,Phoenix
+Developer,Senior,Software Engineer,150000,USD,150000,USA,CA,Mountain View
+Developer,Lead,CTO,150000,USD,150000,USA,NY,NY
+Developer,Senior,Senior Software Engineer,150000,USD,150000,USA,Ca,
+Developer,Senior,Software Engineer,150000,USD,150000,USA,NY,
+Developer,Lead,President,150000,USD,150000,USA,TX,Dallas
+Developer,Senior,Senior Engineer,150000,USD,150000,USA,CA,San Francisco
+Manager/Director/Head,,Head Technologist,150000,USD,150000,USA,North Carolina,
+Manager/Director/Head,,Engineering Manager,150000,USD,150000,USA,,
+Developer,Lead,Staff Engineer,155000,USD,155000,USA,California,San Jose
+Developer,Lead,CEO,170000,USD,170000,USA,PA,
+Developer,Lead,Chief Architect,170000,USD,170000,USA,MA,Burlington
+Developer,Lead,Developer,170000,USD,170000,USA,,
+Developer,Senior,Senior Software Engineer,175000,USD,175000,USA,,
+Developer,Senior,Senior Software Engineer,175000,USD,175000,USA,NY,NYC
+Developer,Lead,Director engineering,175000,USD,175000,USA,Ca,Los angeles
+Developer,Senior,Contractor,180000,USD,180000,USA,MD,Columbia
+Developer,Senior,Senior software engineer,185000,USD,185000,USA,Ct,
+Developer,Lead,Chief Architect,190000,USD,190000,USA,nj,
+Manager/Director/Head,,sr manager,195000,USD,195000,USA,ca,San Francisco
+Developer,Senior,Sr Software Engineer,196000,USD,196000,USA,,
+Manager/Director/Head,,V.P. Engineering,210000,USD,210000,USA,TX,Dallas
+Developer,Senior,Senior Software Enginner,230000,USD,230000,USA,WA,Seattle
+non-technical,,physician,280000,USD,280000,USA,,
+Designer + Developer,Lead,Principal,320000,USD,320000,USA,,
+Designer,Senior,Product designer,350000,USD,350000,USA,Ca,SF
+Designer + Developer,Lead,Developer & Designer,360000,USD,360000,USA,CA,San Francisco
+Co-Founder,,CTO,591000,USD,591000,USA,CA,San Francisco
+Developer,Lead,Software Engineer,750000,USD,750000,USA,NY,New York
+Developer,Lead,Lead Engineer,750000,USD,750000,USA,CA,Los Angeles

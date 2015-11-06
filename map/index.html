@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HN Salary Survey</title>
+	<link rel="stylesheet" type="text/css" href="css/continental.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+	<div id="map"></div>
+	<div id="map-legend">
+		<div class="legend-title">Average Salary</div>
+		<span class="legend-key"></span>
+		<span class="legend-top">&pound;100,000+</span>
+		<span class="legend-middle">&pound;40-50,000</span>
+		<span class="legend-bottom">&lt;&nbsp;&pound;10,000</span>
+	</div>
+</body>
+<script>
+
+	var countries = [
+	  "ad", "al", "at", "ba", "be", "bg", "by", "ch", "cy", "cz",
+	  "de", "dk", "ee", "es", "fi", "fo", "fr", "ge", "gg", "gr",
+	  "hr", "hu", "ie", "im", "is", "it", "je", "li", "lt", "lu",
+	  "lv", "mc", "md", "me", "mk", "mt", "nl", "no", "pl", "pt",
+	  "ro", "rs", "ru", "se", "si", "sk", "sm", "tr", "ua", "uk",
+	  "va"
+	];
+
+	var salaries = [
+		{ "country": "at", "salary": 37080 },
+		{ "country": "be", "salary": 35000 },
+		{ "country": "bg", "salary": 12275 },
+		{ "country": "gb", "salary": 80010 },
+		{ "country": "fr", "salary": 49400 },
+		{ "country": "de", "salary": 65853 },
+		{ "country": "hu", "salary": 11328 },
+		{ "country": "ie", "salary": 67800 },
+		{ "country": "it", "salary": 45600 },
+		{ "country": "lv", "salary": 65000 },
+		{ "country": "nl", "salary": 57000 },
+		{ "country": "no", "salary": 100967 },
+		{ "country": "pl", "salary": 27888 },
+		{ "country": "pt", "salary": 22640 },
+		{ "country": "ru", "salary": 25000 },
+		{ "country": "es", "salary": 43200 },
+		{ "country": "se", "salary": 44701 },
+		{ "country": "ch", "salary": 111875 },
+		{ "country": "tr", "salary": 17699 }
+	];
+	
+	function findCountryIndex(cc) {
+		for (var idx=0; idx<salaries.length; idx++) {
+			if (salaries[idx].country === cc) {
+				return idx;
+			}
+		}
+		return -1;
+	}
+
+	var map = document.getElementById("map");
+	countries.forEach(function(cc) {
+		var idx = findCountryIndex(cc);
+		if (idx !== -1) {
+			var span = document.createElement("span");
+			span.className = "map-" + cc;
+			
+			var salary = Math.round(salaries[idx].salary);
+			span.setAttribute("data-salary", salary);
+			
+			if(salary < 10000) {
+				span.setAttribute("data-salary-bracket", 1);
+			} else if(salary < 20000) {
+				span.setAttribute("data-salary-bracket", 2);
+			} else if(salary < 30000) {
+				span.setAttribute("data-salary-bracket", 3);
+			} else if(salary < 40000) {
+				span.setAttribute("data-salary-bracket", 4);
+			} else if(salary < 50000) {
+				span.setAttribute("data-salary-bracket", 5);
+			} else if(salary < 60000) {
+				span.setAttribute("data-salary-bracket", 6);
+			} else if(salary < 70000) {
+				span.setAttribute("data-salary-bracket", 7);
+			} else if(salary < 80000) {
+				span.setAttribute("data-salary-bracket", 8);
+			} else if(salary < 90000) {
+				span.setAttribute("data-salary-bracket", 9);
+			} else {
+				span.setAttribute("data-salary-bracket", 10);
+			}
+			
+			map.appendChild(span);
+		} else {
+			// country not in salary data, display as black
+			var span = document.createElement("span");
+			span.className = "map-" + cc;
+			span.setAttribute("data-salary", 0);
+			span.setAttribute("data-salary-bracket", 0);
+			map.appendChild(span);
+		}
+	});
+</script>
+</html>
