@@ -2,8 +2,7 @@
 
 A small piece of data analysis and visualisation using Hacker News salary survey data.
 
-### Data and Libraries ###
+### Details ###
 
-[Hacker News Salary Survey (Google Docs file)](https://docs.google.com/spreadsheets/d/17Mr201gfDoOTe5ONLS6LYJi1wQbtT26srXeSwUjMK0A/htmlview?usp=sharing&sle=true)
-
-Using map fonts and Javascript for geographic visualisation: [http://jsdatav.is/chap06.html](http://jsdatav.is/chap06.html)
+You can view my visualisation here: http://davidasboth.com/hn-map
+Or read my blog post about it here: http://davidasboth.com/2015/11/06/visualising-the-hacker-news-salary-surveytake-1/
